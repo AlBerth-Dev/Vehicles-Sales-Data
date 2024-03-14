@@ -1,7 +1,7 @@
 # Vehicles-Sales-Data
+[The final web app can be found in the following link](https://vehicles-sales-data.onrender.com/)
 
 The vehicles_us.csv file is a dataset with information on vehicles for sale. This project aims to build a web application to be able to filter and view the dataset information in a simpler way, so that data can be presented according to the users' requirements.
-
 
 The web application allows to see the characteristics of the vehicles based on the values indicated by the odometer, such as the price or condition of the vehicles.
 
@@ -16,5 +16,5 @@ The project main directory includes:
 - requirements.txt file, where the necesary resources for web app deploy in render platform are specified.
 
 
-[The final web app can be found in the following link](https://vehicles-sales-data.onrender.com/)
+
 ___
