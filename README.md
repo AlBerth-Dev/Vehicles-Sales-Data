@@ -15,6 +15,4 @@ The project main directory includes:
 - A streamlit directory, where it is stablished the necesary configuration for the use of streamlit and render.
 - requirements.txt file, where the necesary resources for web app deploy in render platform are specified.
 
-
-
-___
+____
